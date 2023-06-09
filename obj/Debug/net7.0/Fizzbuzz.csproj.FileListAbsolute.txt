@@ -1,0 +1,15 @@
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\bin\Debug\net7.0\Fizzbuzz.exe
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\bin\Debug\net7.0\Fizzbuzz.deps.json
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\bin\Debug\net7.0\Fizzbuzz.runtimeconfig.json
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\bin\Debug\net7.0\Fizzbuzz.dll
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\bin\Debug\net7.0\Fizzbuzz.pdb
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.dll
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\refint\Fizzbuzz.dll
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.pdb
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\Confidence\Desktop\repos\Fizzbuzz\Fizzbuzz\obj\Debug\net7.0\ref\Fizzbuzz.dll
